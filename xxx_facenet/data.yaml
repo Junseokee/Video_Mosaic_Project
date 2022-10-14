@@ -1,0 +1,6 @@
+
+train: /content/drive/MyDrive/framework/xxx/images
+val: /content/drive/MyDrive/framework/xxx/images
+
+nc: 1
+names: ['face']
