@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/images
+val: /content/drive/MyDrive/images
+
+nc: 2
+names: ['face','yong']
